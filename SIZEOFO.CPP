@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {clrscr();
-printf("SHUBHAM");
+printf("Tushar Sharma\n");
 printf("\n %lu",sizeof(char));
 printf("\n %lu",sizeof(int));
 printf("\n %lu",sizeof(float));
