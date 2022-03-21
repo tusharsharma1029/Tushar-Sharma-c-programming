@@ -6,6 +6,8 @@ void main()
 char sent[100],temp[10];
 int i,j,l;
 clrscr();
+
+
 printf("input a string");
 gets(sent);
 l=strlen(sent);
