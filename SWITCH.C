@@ -6,7 +6,7 @@ void main()
 char sent[100];
 int length,choice;
 clrscr();
-print("Tushar Sharma");
+printf("Tushar Sharma");
 printf("1. get an input string:\n");
 printf("2. total character:\n");
 printf("3. upper case\n");
