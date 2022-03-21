@@ -10,6 +10,7 @@ void main()
 {
     int count=50;
     clrscr();
+    printf("tushar Sharma");
     while(count--)
     {
         sound(10*random(100));
