@@ -6,6 +6,7 @@ void main()
 char sent[100],temp[10];
 int i,j,l;
 clrscr();
+printf("tushar sharma\n);
 
 
 printf("input a string");
