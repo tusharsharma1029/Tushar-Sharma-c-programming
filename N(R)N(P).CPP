@@ -3,7 +3,7 @@
 void fun();
 void main()
 {clrscr();
-printf("SHUBHAM\n");
+printf("Tushar Sharma\n");
 fun();
 getch();
 }
