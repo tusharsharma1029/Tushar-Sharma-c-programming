@@ -4,6 +4,6 @@
 void main()
 {int r=2;
 clrscr();
-printf("SHUBHAM\n");
+printf("Tushar Sharma\n");
 printf("Square=%d",sqr(r));
 getch(); }
