@@ -3,7 +3,7 @@
 void main()
 {int i=0;
 clrscr();
-printf("SHUBHAM");
+printf("Tushar Sharma\n");
 while(i<10)
 {
 i++;
