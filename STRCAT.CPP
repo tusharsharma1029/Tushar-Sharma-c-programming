@@ -4,7 +4,7 @@
 void main()
 {char a[20],b[20];
 clrscr();
-printf("SHUBHAM\n");
+printf("Tushar Sharma\n");
 printf("Enter the string=");
 gets(a);
 printf("Enter the string=");
