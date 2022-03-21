@@ -12,6 +12,7 @@ int main()
     {
         for(j=0;j<2;j++)
         printf("%d",X[i][j]);
+printf(" Tushar Sharma");
         printf("\n");
     }
 
