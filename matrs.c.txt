@@ -5,7 +5,8 @@
  void fretrieve2D(int a[][N]); 
  int main() 
  { 
-      int a[M][N];  
+      int a[M][N]; 
+       printf("Tushar Sharma");
       printf("Input Data in Matrix (%d X %d)\n", M, N); 
       fstore2D(a); 
       fretrieve2D(a); 
@@ -28,6 +29,6 @@
                    for ( j = 0; j < N; ++j) 
                         printf("%6d ", a[i][j]); 
                         printf("\n");
-                        printf("Tushar Sharma");
+                       
                } 
      }  
