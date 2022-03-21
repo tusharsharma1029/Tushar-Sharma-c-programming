@@ -9,7 +9,7 @@ y++;
 }
 void main()
 {clrscr();
-printf("SHUBHAM\n");
+printf("Tushar Sharma\n");
 fun();
 fun();
 fun();
