@@ -4,5 +4,6 @@
 void main()
 {
 	printf("Hello!");
+	printf("Tushar Sharma\n");
 	getch();
 }
