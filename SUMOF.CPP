@@ -3,7 +3,7 @@
 void main()
 {int num=1,sum;
 clrscr();
-printf("SHUBHAM");
+printf("Tushar Sharma");
 while(num<=10)
 {
 printf("\n value of num=%d",num);
