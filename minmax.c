@@ -6,7 +6,7 @@ int main()
 {
 	int a,b,max;
 	
-	
+	printf("Tushar Sharma"); 
 	printf("Enter first number: ");
 	scanf("%d",&a);
 	printf("Enter second number: ");
