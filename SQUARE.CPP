@@ -8,7 +8,7 @@ void main()
 {
 int j=0;
 clrscr();
-printf("SHUBHAM");
+printf("Tushar Sharma\n");
 void sqr(int);
 for(j=0;j<=5;j++)
 sqr(j);
