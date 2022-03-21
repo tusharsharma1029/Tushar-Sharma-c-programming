@@ -4,7 +4,7 @@
 void main()
 {int num=1,x;
 clrscr();
-printf("SHUBHAM");
+printf("Tushar Sharma\n");
 do
 {
 x=pow(num,3);
