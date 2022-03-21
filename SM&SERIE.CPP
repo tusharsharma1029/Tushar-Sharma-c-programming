@@ -9,6 +9,7 @@ printf("value of num=%d\n",num);
 num++;
 sum+=num;
 }
+ printf("Tushar Sharma\n");
 printf("sum=%d",sum);
 getch();
 }
