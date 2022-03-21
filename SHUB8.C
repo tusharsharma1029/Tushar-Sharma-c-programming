@@ -3,7 +3,7 @@
 void main()
 {char b;
 clrscr();
-printf("SHUBHAM");
+printf("Tushar Sharma");
 printf("\n enter a character=");
 scanf("%c",&b);
 printf("\n character value=%c",b);
