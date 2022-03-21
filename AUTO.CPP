@@ -9,7 +9,7 @@ return s;
 void main()
 {auto int s=sum(3,4);
 clrscr();
-printf("SHUBHAM\n");
+printf("Tushar Sharma\n");
 printf("%d",s);
 getch();
 }
